@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<datacollection-group name="HP">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="HP">
 
     <!-- HP-UX fileSystemTable resource type -->
     <resourceType name="hpuxFSTable" label="HP-UX Filesystem" resourceLabel="${hpuxFSName} on ${hpuxFSDir}">
